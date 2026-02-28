@@ -35,3 +35,5 @@ This repository contains my personal Linux rice configuration.
 - Fonts are required for icons to render correctly.
 
 ![Desktop](screenshots/Desktop.png)
+
+*Image used for Background is by @keith.considine, via https://wallpapercat.com/no-mans-sky-game-wallpapers, licensed under CC BY-SA 4.0. No changes were made.*
