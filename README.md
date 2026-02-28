@@ -34,4 +34,4 @@ This repository contains my personal Linux rice configuration.
 - Designed for Debian/Ubuntu-based systems.
 - Fonts are required for icons to render correctly.
 
-![Desktop](./screenshots/Desktop.png!)
+![Desktop](screenshots/Desktop.png!)
