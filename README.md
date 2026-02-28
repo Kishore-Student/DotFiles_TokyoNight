@@ -36,4 +36,7 @@ This repository contains my personal Linux rice configuration.
 
 ![Desktop](screenshots/Desktop.png)
 
-*Image used for Background is by @keith.considine, via https://wallpapercat.com/no-mans-sky-game-wallpapers, licensed under CC BY-SA 4.0. No changes were made.*
+## Credits
+1.*Image used for Background is by @keith.considine, via https://wallpapercat.com/no-mans-sky-game-wallpapers, licensed under CC BY-SA 4.0. No changes were made.*
+2.*Inspired by [Tokyo Night VS Code Theme](https://github.com/tokyo-night/tokyo-night-vscode-theme).*
+3. *Uses the [Tokyonight Rofi Theme](https://github.com/w8ste/Tokyonight-rofi-theme).*
